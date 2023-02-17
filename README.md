@@ -10,3 +10,5 @@ used also info from:
 ![TCA9584_4OLEDdisplays](https://github.com/tehniq3/NTP_clock_4_OLED_displays/blob/main/NTP_clock_on_4_OLED_displays_schematic.jpg)
 
 ![or](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP_PI1BGYtf--2VI_b5Yn9454CZ8D1zErHourfLZ6m3Ng8xkBtdIFQL5QyUHPe9QHX0w0XNCPcAnsj5xApnFShJPuicLvpD88TiO0zhhMWlqV2jaWB6__5JurZ73N7V1L_5Purp-2CB2TglVTLB8VDX3o9RyG0UAbacd8rxAvQgjy51927p8-CNpESsA/s755/NTP_clock_DST_WemosD1_i2c_schematic.png)
+
+![my schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFDBOxaVUok2O1wGNVsCcVsiluU2EJlPQD1KFlGHqDahKCKpEtLCVDrdhy4UOYrDJOQ3HRURrDO8mDAs5zP6jZc2EC-nfE2xozHnVK64y6m8WdK6s8cV5_CUYH8rXVzISxrGMmVzuPs1Sz4P1vW7c_tzFjGXYHy99bwe7JqAtCYUwuBThRFsodaTzfTA/s1804/NTP_clock_DST_WemosD1_i2c_newschematic.png)
